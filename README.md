@@ -4,7 +4,7 @@
 * PLUGINS are in CLI Folder!
 * If your source is TeleSeed you can change the folder name to plugins and paste it instead of currnet folder
 * also you should edit seedbot.lua 
-* paste text of abc file to enabled_plugins (line 207)
+* paste text of abc file(in tg folder) to enabled_plugins (line 207)
 
 * Use Them In A Good Way😎 
  * [@SBSS_Team](telegram.me/SBSS_Team)
