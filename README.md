@@ -1,18 +1,5 @@
-#Plugins
-* New Plugins Created By 
-[ArMan](https://github.com/Thisisarman) ([Telegram](https://telegram.me/thisisarman))
+#SBSS Plus Plugins
+* Created by [Mr.AHS](https://telegram.me/MR_AH_S)
+* Special Thanks to [ArMan](https://telegram.me/thisisarman) , [I M /-\ N](https://telegram.me/imandaneshi) & [Shayan Ahmadi](telegram.me/shayansoft))
 * PLUGINS are in CLI Folder!
-* Special Tnx To 
-
-[I M /-\ N](https://github.com/imandaneshi) ([Telegram](https://telegram.me/imandaneshi))
-[Amir](https://github.com/paydaar) ([Telegram](https://telegram.me/unfriendly))
-Javid https://telegram.me/Iamjavid
-
-
-------------------------------------------------
-structurs.c بـرایـ اف نشدن بات فایل 
-را جایگزین فایل قدیمی در سرور خود کنید
-مسیر:
-tg/tgl/structures.c
------------------------------------------------
 # Use Them In A Good Way
